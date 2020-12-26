@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/* hello 10:57 */
 int main() {
 	char *message;
 	scanf ("%ms", &message);
